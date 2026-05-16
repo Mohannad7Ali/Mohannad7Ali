@@ -87,4 +87,4 @@ I am actively looking for **Full-Stack / Backend Software Engineering** opportun
 
 *   💼 **LinkedIn:** [/in/mohannad-ali-dev](https://linkedin.com/in/mohannad-ali-dev)
 *   📧 **Direct Email:** [mohannadali.dev@gmail.com](mailto:mohannadali.dev@gmail.com)
-*   📄 **Download Full CV:** [My Resume/CV](https://fintrack-phi-coral.vercel.app/resume.pdf) *(Ensure this path or your portfolio link serves your PDF)*
+*   📄 **Download Full CV:** [My Resume/CV](https://mohannad-ali-portfolio.vercel.app/cv/MohannadAli_CV.pdf)
