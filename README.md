@@ -74,14 +74,6 @@ With advanced expertise in the **JavaScript/TypeScript ecosystem (Next.js & Node
 
 ---
 
-## 📊 GitHub Ecosystem Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohannad7Ali&show_icons=true&theme=tokyonight" alt="Mohannad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannad7Ali&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Build Something Impactful Together!
 I am actively looking for **Full-Stack / Backend Software Engineering** opportunities where I can solve complex data problems and optimize product architectures. 
 
